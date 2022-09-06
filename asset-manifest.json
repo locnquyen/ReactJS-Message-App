@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Message-App/static/css/main.7a969a7e.css",
+    "main.js": "/ReactJS-Message-App/static/js/main.8680effb.js",
+    "static/js/787.6c3e6103.chunk.js": "/ReactJS-Message-App/static/js/787.6c3e6103.chunk.js",
+    "index.html": "/ReactJS-Message-App/index.html",
+    "main.7a969a7e.css.map": "/ReactJS-Message-App/static/css/main.7a969a7e.css.map",
+    "main.8680effb.js.map": "/ReactJS-Message-App/static/js/main.8680effb.js.map",
+    "787.6c3e6103.chunk.js.map": "/ReactJS-Message-App/static/js/787.6c3e6103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a969a7e.css",
+    "static/js/main.8680effb.js"
+  ]
+}
